@@ -1,6 +1,8 @@
 # Employee Attrition Prediction
 
-This project predicts employee attrition using the IBM HR Analytics Employee Attrition & Performance dataset. 
+This project uses the IBM HR Analytics Employee Attrition & Performance dataset to predict employee attrition. 
+
+The Employee Attrition Prediction project aims to forecast whether an employee is likely to leave an organization using the IBM HR Analytics Employee Attrition & Performance dataset. By analyzing various factors such as job satisfaction, work-life balance, and salary, the project leverages machine learning models to identify key indicators of employee turnover. The insights gained can help businesses enhance employee retention strategies, reduce turnover costs, and improve overall organizational stability.
 
 ## Dataset
 
@@ -30,9 +32,5 @@ The dataset can be found on Kaggle:
 ## Contributing
 
 Feel free to contribute by opening issues or submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
